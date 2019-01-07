@@ -6,3 +6,4 @@
   - add new commit
 - How to squash your commits
 
+test rebase
