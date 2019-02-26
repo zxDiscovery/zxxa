@@ -5,5 +5,7 @@
   - update commit with `--amend`
   - add new commit
 - How to squash your commits
-
+- How to rebase
+- How to resolve conflict
+- Draft PR
 test 2
